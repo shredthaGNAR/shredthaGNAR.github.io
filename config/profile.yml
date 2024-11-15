@@ -10,7 +10,7 @@ USER:
   role: "Creative Technologist"
   name: "Lucas McKay"
   username: "shredthaGNAR" # <-- This needs to be the same as your GitHub username
-  avatar: "config/assets/avatars/my-avatar.png"
+  avatar: "config/assets/avatars/me.png"
 
 INFO:
   - label: "Email"
