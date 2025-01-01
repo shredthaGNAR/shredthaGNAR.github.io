@@ -1,0 +1,66 @@
+HEADER:
+  label: "About me"
+
+PRESENTATION:
+  description: I am a Creative Technologist. Where others focus on just 1 small secion, I perfer to uilize both: my. creativity. annd Tecnical skills. I'm a WordPress Whisperer & SEO Sorcere- A Swiss Army Knife of Web Development-ready to fix any problem your facing whether front or backend: The Digital Renaissance Developer. Combining my technical skills along wih years of exprience has 
+    allowed me to foster a problem-solving straetgy that relies on refosurcfulnss and ingenuinity-Tech MacGyver style.  Jack of All Trades, Master of Most (Web Dev Edition)
+
+    My job is to build your website/APP/Poster/Any type of media, so that it is functional and user-friendly but at the same time attractive, of course,  but most importantly BRINGS RESULTS. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way,  that will bring resultsyoouare seeking. I believe it making sure my customers are satisifed  and get what they want, however I also want them to be sucessful and I am willling to always help my clients even if. it is nt what. thhey. ae bnot. wanting to hear.
+
+DOING:
+  enabled: true
+  label: "What I'm doing"
+  items:
+    - title: "Mobile Apps"
+      icon: "config/assets/icons/mobile.svg"
+      description: "Professional development of applications for iOS and Android."
+    - title: "Scripting"
+      icon: "config/assets/icons/code.svg"
+      description: "Automation and task scripting using Python to enhance efficiency and productivity."
+    - title: "UI/UX Designing"
+      icon: "config/assets/icons/compass.svg"
+      description: "Intuitive and visually appealing user interfaces and user experiences."
+    - title: "Web Development"
+      icon: "config/assets/icons/laptop-code.svg"
+      description: "High-quality development of sites at the professional level."
+
+SKILLS:
+  enabled: true - title: "Linux"
+      icon: "config/assets/icons/linux.svg"
+  label: "Soft Skills"
+  items:
+    - title: "Fast Learner"
+      icon: "config/assets/icons/bolt.svg"
+      description: "I have the ability to quickly acquire new knowledge and adapt to changing technological environments."
+    - title: "Teamwork"
+      icon: "config/assets/icons/user.svg"
+      description: "I collaborate effectively in multidisciplinary projects and communicate clearly with team members."
+    - title: "Problem Solving"
+      icon: "config/assets/icons/gear.svg"
+      description: "I am creative and efficient in identifying and solving technical problems."
+    - title: "Effective Communication"
+      icon: "config/assets/icons/comment.svg"
+      description: "I have the skill to convey ideas clearly and concisely, both technically and non-technically."
+
+TECHNOLOGIES:
+  enabled: true
+  label: "Tech Experience"
+  items:
+    - title: "Shopify"
+      icon: "config/assets/icons/shopify.svg"
+    - title: "CSS"
+      icon: "config/assets/icons/CSS.svg"
+    - title: "Git"
+      icon: "config/assets/icons/git.svg"
+    - title: "JS"
+      icon: "config/assets/icons/javascript.svg"
+    - title: "HTML"
+      icon: "config/assets/icons/html.svg"
+    - title: "AI"
+      icon: "config/assets/icons/ai.svg"
+    - title: "Wordpress"
+      icon: "config/assets/icons/wordpress.svg"
+    - title: "Linux"
+      icon: "config/assets/icons/linux.svg" 
+    - title: "MacOS"
+      icon: "config/assets/icons/mac.svg"

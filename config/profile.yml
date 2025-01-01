@@ -1,0 +1,34 @@
+# We are using the ionicons icon set https://ionic.io/ionicons
+# For example, to add a linkedin icon:
+# <ion-icon name="logo-linkedin"></ion-icon>
+# - icon: "logo-linkedin"
+
+HEADER:
+  label: "Show Contacts"
+
+USER:
+  role: "Creative Technologist"
+  name: "Lucas McKay"
+  username: "shredthaGNAR" # <-- This needs to be the same as your GitHub username
+  avatar: "config/assets/avatars/me.png"
+
+INFO:
+  - label: "Email"
+    value: "lucas@lucasmckay.xyz"
+    icon: "mail-outline"
+  - label: "Phone"
+    value: "+1 (805) 698-8396"
+    icon: "phone-portrait-outline"
+  - label: "Location"
+    value: "Santa Barbara, California, USA"
+    icon: "location-outline"
+
+SOCIAL:
+  - icon: "logo-facebook"
+    url: "https://facebook.com/"
+  - icon: "logo-instagram"
+    url: "https://instagram.com/"
+  - icon: "logo-linkedin"
+    url: "https://www.linkedin.com/"
+  - icon: "logo-github"
+    url: "https://github.com/ivansaul"
